@@ -1,6 +1,6 @@
 # Covid19-India
 
-# Install dependencies
+#Install dependencies
 
 npm install 
 
