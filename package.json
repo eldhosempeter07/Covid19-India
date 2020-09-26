@@ -1,14 +1,19 @@
 {
-  "name": "favoriot_api_react_plotly",
+  "name": "covid19-india",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "axios": "^0.19.0",
-    "plotly.js": "^1.48.3",
+    "eslint-loader": "^4.0.2",
+    "leaflet": "^1.7.1",
+    "plotly.js": "^1.55.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-leaflet": "^2.7.0",
+    "react-loader-spinner": "^3.1.14",
     "react-plotly.js": "^2.3.0",
-    "react-scripts": "3.0.1"
+    "react-scripts": "^3.4.3",
+    "styled-components": "^5.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
